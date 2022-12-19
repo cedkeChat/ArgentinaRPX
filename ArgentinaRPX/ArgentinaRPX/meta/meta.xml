@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>ArgentinaRPXLoader</name>
+  <coder>cedkeChat</coder>
+  <version>1.0</version>
+  <url>https://github.com/cedkeChat/</url>
+  <release_date>202219122118</release_date>
+  <short_description>RPX Loader with SD CARD.</short_description>
+  <long_description>
+    by cedkeChat and thanks to rixcica!
+  </long_description>
+  <category>poc</category>
+</app>
